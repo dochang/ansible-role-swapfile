@@ -1,6 +1,10 @@
 Swapfile
 ========
 
+[![Build Status](https://travis-ci.org/dochang/ansible-role-swapfile.svg?branch=master)](https://travis-ci.org/dochang/ansible-role-swapfile)
+[![Ansible Role](https://img.shields.io/ansible/role/25951.svg)](https://galaxy.ansible.com/dochang/swapfile/)
+[![Ansible Role](https://img.shields.io/ansible/role/d/25951.svg)](https://galaxy.ansible.com/dochang/swapfile/)
+
 An ansible role to configure a swap file.
 
 Requirements
